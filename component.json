@@ -1,0 +1,15 @@
+{
+  "name": "jquery-Mustache",
+  "repo": "factorial-io/jquery-Mustache",
+  "version": "0.2.8",
+  "styles": [],
+  "scripts": [
+    "jquery.mustache.js"
+  ],
+  "templates": [],
+  "dependencies": {
+    "components/jquery": "*",
+    "factorial-io/mustache.js": "2.1.5"
+  },
+  "license": "MIT"
+}
